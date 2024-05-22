@@ -24,7 +24,7 @@ def create_heatmap(frame):
     return heatmap
 
 # Open the video source
-cap = cv2.VideoCapture('video.mp4')
+cap = cv2.VideoCapture('Los Angeles.mp4')
 
 while(cap.isOpened()):
     ret, frame = cap.read()
