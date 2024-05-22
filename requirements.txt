@@ -1,0 +1,8 @@
+supervision[desktop]
+ultralytics
+pandas
+plotly
+nbformat
+streamlit
+shapely
+lapx
